@@ -45,7 +45,7 @@ p, li {
 ul, ol{
   list-style-position: inside;}
 aside {
-	width: 400px;
+	width: 300px;
 	min-width: 300px;
 	/* height: 100vh;  */
   background-color: #1E2939;
